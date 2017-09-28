@@ -1,6 +1,6 @@
 # Visible Wordpress Starter
 
-A Docker Wordpress development environment by the team at [Visible](https://visible.vc/) and some awesome [contributors](https://github.com/visiblevc/wordpress-starter/graphs/contributors). Our goal is to make Wordpress development slightly less frustrating.
+ A Docker Wordpress development environment by the team at [Visible](https://visible.vc/) and some awesome [contributors](https://github.com/visiblevc/wordpress-starter/graphs/contributors). Our goal is to make Wordpress development slightly less frustrating.
 
 - [Introduction](#introduction)
 - [Example](./example/)
